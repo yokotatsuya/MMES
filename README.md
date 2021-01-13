@@ -1,5 +1,6 @@
 # MMES
-This is a project page of Manifold Modeling in Embedded Space (MMES) accepted to IEEE Transactions on Neural Networks and Learning Systems. <br>
+Manifold Modeling in Embedded Space (MMES): An Interpretable Alternative to Deep Image Prior <br>
+It is published in IEEE Transactions on Neural Networks and Learning Systems <br>
 Please download our paper from IEEE (Open Access) : https://ieeexplore.ieee.org/abstract/document/9281370 <br>
 Link to arXiv paper : https://arxiv.org/abs/1908.02995
 
