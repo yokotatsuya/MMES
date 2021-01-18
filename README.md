@@ -18,3 +18,6 @@ It is implemented by using TensorFlow (please try our codes for image inpainting
  - [demo_MMES_DN(denoising)](demo_MMES_DN(denoising).ipynb) recovers the following noisy image <br>
  ![noisy](input_DN_butterfly_sig40.png)
  
+ - Additional Inpainting Demo. for [gray-scale image](demo_MMES_IP(inpainting)_gray.ipynb) and [binary image](demo_MMES_IP(inpainting)_binary.ipynb) were uploaded <br>
+ ![gray](Lena_ms70.png) 
+ ![binary](Lena_ms70_binary(1or255).png)
